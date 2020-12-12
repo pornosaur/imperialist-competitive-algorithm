@@ -6,13 +6,13 @@ OpenCL version uses PRNG - Xoroshiro256 [[4]](#4) and each run has seed generate
 The following graphs shows results on benchmark functions:
 
 ![Sphere function](/graphs/f1.png?raw=true "Sphere function")
-![Alt text](/graphs/f2.png?raw=true "Optional Title")
-![Alt text](/graphs/f3.png?raw=true "Optional Title")
-![Alt text](/graphs/f4.png?raw=true "Optional Title")
-![Alt text](/graphs/f5.png?raw=true "Optional Title")
-![Alt text](/graphs/f6.png?raw=true "Optional Title")
-![Alt text](/graphs/f7.png?raw=true "Optional Title")
-![Alt text](/graphs/f8.png?raw=true "Optional Title")
+![Rosenbrock function](/graphs/f2.png?raw=true "Rosenbrock function")
+![AbsSum function](/graphs/f3.png?raw=true "AbsSum function")
+![DeJong 4 function](/graphs/f4.png?raw=true "DeJong4 function")
+![Rastrigin function](/graphs/f5.png?raw=true "Rastrigin function")
+![Schwefel function](/graphs/f6.png?raw=true "Schwefel function")
+![Griewank function](/graphs/f7.png?raw=true "Griewank function")
+![Masters function](/graphs/f8.png?raw=true "Masters function")
 
 
 ## References
